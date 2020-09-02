@@ -1,0 +1,1 @@
+Syllable for Turkish words.
